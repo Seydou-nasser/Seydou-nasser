@@ -1,13 +1,49 @@
-- 👋 Hi, I’m @Seydou-nasser (aka Monarque)
-- 👀 I’m interested in automation, embedded systems, and C# development
-- 🌱 I’m currently learning advanced industrial automation and .NET development
-- 💼 I’m looking to collaborate on projects related to automation, embedded systems, and innovative IoT solutions
-- 📫 How to reach me: seydounasser22@gmail.com | +228 93709361
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I created an Automatic Natural Juice Dispenser with an HMI interface for catering services as part of an internship project!
+<!-- Profil GitHub de Seydou-nasser -->
 
+<h1 align="center">Salut, je suis Seydou-nasser 👋</h1>
 
-<!---
-Seydou-nasser/Seydou-nasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>Développeur passionné par la conception d’applications web et mobiles modernes, avec un goût pour les architectures robustes et scalables.</b>
+</p>
+
+<p align="center"><i>“Chaque bug compte”</i></p>
+
+---
+
+### 👨‍💻 À propos de moi
+
+- **Profession** : Développeur Fullstack (TypeScript, Go, C#)
+- **Spécialités** : React / React Native, Expo, Node.js, Go, API REST, architecture modulaire
+- **Passion** : Domotique, IoT, applications mobiles innovantes, UI/UX moderne
+
+---
+
+### 🛠️ Compétences principales
+
+- **Langages** : TypeScript, JavaScript, Go, C#, HTML/CSS, SCSS
+- **Frameworks** : React, React Native, Expo, Node.js, .NET MAUI
+- **Outils & pratiques** : Git/GitHub, API REST, Architecture modulaire, Expo Router, ContextAPI, AsyncStorage, Axios, CI/CD
+
+---
+
+### 🌱 Ce que j’apprends / explore
+
+- Automatisation domotique avancée
+- UI/UX mobile moderne
+- Intégration IoT et capteurs connectés
+
+---
+
+### 📫 Me contacter
+
+- LinkedIn : [www.linkedin.com/in/abdoul-nasser-s-959b55296](https://www.linkedin.com/in/abdoul-nasser-s-959b55296)
+- Email : sseydounasser22@gmail.com
+<!-- - Portfolio : [Lien vers votre site si existant] -->
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seydou-nasser&layout=compact&hide=html" alt="Langages les plus utilisés" />
+</p>
+
+<!-- N’oublie pas de compléter avec d’autres liens ou une bio personnalisée si besoin ! -->
