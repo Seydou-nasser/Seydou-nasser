@@ -21,7 +21,7 @@
 ### 🛠️ Compétences principales
 
 - **Langages** : TypeScript, JavaScript, Go, C#, HTML/CSS, SCSS
-- **Frameworks** : React, React Native, Expo, Node.js, .NET MAUI
+- **Frameworks** : React, React Native, Expo, Node.js, Express.js, .NET MAUI
 - **Outils & pratiques** : Git/GitHub, API REST, Architecture modulaire, Expo Router, ContextAPI, AsyncStorage, Axios, CI/CD
 
 ---
