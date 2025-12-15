@@ -12,7 +12,7 @@
 
 ### 👨‍💻 À propos de moi
 
-- **Profession** : Développeur Fullstack (TypeScript, Go, C#)
+- **Profession** : Développeur Fullstack (TypeScript, Go, Python, C#)
 - **Spécialités** : React / React Native, Expo, Node.js, Go, API REST, architecture modulaire
 - **Passion** : Domotique, IoT, applications mobiles innovantes, UI/UX moderne
 
@@ -20,7 +20,7 @@
 
 ### 🛠️ Compétences principales
 
-- **Langages** : TypeScript, JavaScript, Go, C#, HTML/CSS, SCSS
+- **Langages** : TypeScript, JavaScript, Go, Python, C#, HTML/CSS, SCSS
 - **Frameworks** : React, React Native, Expo, Node.js, Express.js, .NET MAUI
 - **Outils & pratiques** : Git/GitHub, API REST, Architecture modulaire, Expo Router, ContextAPI, AsyncStorage, Axios, CI/CD
 
